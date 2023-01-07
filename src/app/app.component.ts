@@ -14,7 +14,7 @@ export class AppComponent {
   constructor(private http:FlightsService) { }
 
   flightData:any=[]
-  dev_name="Thaneshwara";
+  dev_name="PavanTeja2000030837";
   
   ngOnInit()
   {
